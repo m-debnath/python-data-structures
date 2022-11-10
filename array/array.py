@@ -5,8 +5,8 @@ pp = PrettyPrinter()
 expenses_2022: list[dict[str, int]] = [
     {"January": 2200},
     {"February": 2350},
-    {"April": 2130},
-    {"March": 2600},
+    {"March": 2130},
+    {"April": 2600},
     {"May": 2190},
 ]
 
